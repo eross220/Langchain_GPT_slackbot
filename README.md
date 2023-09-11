@@ -78,9 +78,6 @@ settings:
 - Try editing the prompts for your use case which can be found in `/config/prompts.js`
 - Set up a production employment and start your bot on a server somewhere other than your local machine - https://render.com/ is a good, simple option for this.
 
-## Sample implementations
-
-1. [**HR assistant**](https://github.com/martinseanhunt/slack-gpt-hr-bot): A helpful slack bot that ingests data from a companies confluence space to provide HR assistance, includes full ingestsion pipeline.
 
 ## TODO
 
